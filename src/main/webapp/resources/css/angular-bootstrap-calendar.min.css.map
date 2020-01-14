@@ -1,0 +1,1171 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class=" is-copy-enabled">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=1020">
+    
+    
+    <title>angular-bootstrap-calendar/angular-bootstrap-calendar.min.css.map at master · mattlewis92/angular-bootstrap-calendar</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="mattlewis92/angular-bootstrap-calendar" name="twitter:title" /><meta content="angular-bootstrap-calendar - A port of the bootstrap calendar widget to AngularJS (no jQuery required!)" name="twitter:description" /><meta content="https://avatars3.githubusercontent.com/u/6425649?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars3.githubusercontent.com/u/6425649?v=3&amp;s=400" property="og:image" /><meta content="mattlewis92/angular-bootstrap-calendar" property="og:title" /><meta content="https://github.com/mattlewis92/angular-bootstrap-calendar" property="og:url" /><meta content="angular-bootstrap-calendar - A port of the bootstrap calendar widget to AngularJS (no jQuery required!)" property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTI3MjU1Nzc6YmNkYmQ0YWZmNzliNGFhNGQ0MGMyMWFiYjE4OTQzN2U6NjJkODk2NTVhOTJmZDY5YjQ1ZGZjMzUyNWQ3NTc5NmZkMDk2Y2I0YjZkODM2MGI3ODY2ZTUyZjA4NDQxMWM2OA==--d6edf1a7a3ffc6aae8d07614810053506eef6058">
+    <meta name="pjax-timeout" content="1000">
+    <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+        <meta name="google-analytics" content="UA-3769691-2">
+
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="6F5B490B:069E:26A733D:55E5F16D" name="octolytics-dimension-request_id" /><meta content="12725577" name="octolytics-actor-id" /><meta content="Pushp1403" name="octolytics-actor-login" /><meta content="51e3c1bf86cb8a812f8fa0da267f984ec3e8e5dce79a8e3a88ecc25117830fed" name="octolytics-actor-hash" />
+    
+    <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
+    <meta class="js-ga-set" name="dimension1" content="Logged In">
+      <meta class="js-ga-set" name="dimension4" content="Current repo nav">
+    <meta name="is-dotcom" content="true">
+        <meta name="hostname" content="github.com">
+    <meta name="user-login" content="Pushp1403">
+
+      <link rel="icon" sizes="any" mask href="https://assets-cdn.github.com/pinned-octocat.svg">
+      <meta name="theme-color" content="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <!-- </textarea> --><!-- '"` --><meta content="authenticity_token" name="csrf-param" />
+<meta content="gNjxzyyPvV8IkXO8I0XRdWj4AxEunxDDW1P//y1i2NXCU+H76biQrR8TwDI29O6ZVHp/iPp5GPCP7nntCfM2hw==" name="csrf-token" />
+    <meta content="af5d71552d9477531f8b7bc89127383c6bc89e64" name="form-nonce" />
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-8033740a62953273e0af57a9f7f0b372d60ab1b6e54cd4956c336c0f747a0432.css" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2-3be99893fb56f39a7993a8f05d30e356f19f0a59fd96a7417a099a8977017ffc.css" media="all" rel="stylesheet" />
+    
+    
+
+
+    <meta http-equiv="x-pjax-version" content="86fa17439b4474e93f81c0a964e6efd6">
+
+      
+  <meta name="description" content="angular-bootstrap-calendar - A port of the bootstrap calendar widget to AngularJS (no jQuery required!)">
+  <meta name="go-import" content="github.com/mattlewis92/angular-bootstrap-calendar git https://github.com/mattlewis92/angular-bootstrap-calendar.git">
+
+  <meta content="6425649" name="octolytics-dimension-user_id" /><meta content="mattlewis92" name="octolytics-dimension-user_login" /><meta content="24531144" name="octolytics-dimension-repository_id" /><meta content="mattlewis92/angular-bootstrap-calendar" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="24531144" name="octolytics-dimension-repository_network_root_id" /><meta content="mattlewis92/angular-bootstrap-calendar" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/mattlewis92/angular-bootstrap-calendar/commits/master.atom" rel="alternate" title="Recent Commits to angular-bootstrap-calendar:master" type="application/atom+xml">
+
+  </head>
+
+
+  <body class="logged_in  env-production windows vis-public page-blob">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
+      
+      
+      
+
+
+
+        <div class="header header-logged-in true" role="banner">
+  <div class="container clearfix">
+
+    <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <span class="mega-octicon octicon-mark-github"></span>
+</a>
+
+
+      <div class="site-search repo-scope js-site-search" role="search">
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/mattlewis92/angular-bootstrap-calendar/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/mattlewis92/angular-bootstrap-calendar/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <label class="js-chromeless-input-container form-control">
+    <div class="scope-badge">This repository</div>
+    <input type="text"
+      class="js-site-search-focus js-site-search-field is-clearable chromeless-input"
+      data-hotkey="s"
+      name="q"
+      placeholder="Search"
+      aria-label="Search this repository"
+      data-global-scope-placeholder="Search GitHub"
+      data-repo-scope-placeholder="Search"
+      tabindex="1"
+      autocapitalize="off">
+  </label>
+</form>
+      </div>
+
+      <ul class="header-nav left" role="navigation">
+        <li class="header-nav-item">
+          <a href="/pulls" class="js-selected-navigation-item header-nav-link" data-ga-click="Header, click, Nav menu - item:pulls context:user" data-hotkey="g p" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls">
+            Pull requests
+</a>        </li>
+        <li class="header-nav-item">
+          <a href="/issues" class="js-selected-navigation-item header-nav-link" data-ga-click="Header, click, Nav menu - item:issues context:user" data-hotkey="g i" data-selected-links="/issues /issues/assigned /issues/mentioned /issues">
+            Issues
+</a>        </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="https://gist.github.com/" data-ga-click="Header, go to gist, text:gist">Gist</a>
+          </li>
+      </ul>
+
+    
+<ul class="header-nav user-nav right" id="user-links">
+  <li class="header-nav-item">
+      <span class="js-socket-channel js-updatable-content"
+        data-channel="notification-changed:Pushp1403"
+        data-url="/notifications/header">
+      <a href="/notifications" aria-label="You have no unread notifications" class="header-nav-link notification-indicator tooltipped tooltipped-s" data-ga-click="Header, go to notifications, icon:read" data-hotkey="g n">
+          <span class="mail-status all-read"></span>
+          <span class="octicon octicon-bell"></span>
+</a>  </span>
+
+  </li>
+
+  <li class="header-nav-item dropdown js-menu-container">
+    <a class="header-nav-link tooltipped tooltipped-s js-menu-target" href="/new"
+       aria-label="Create new…"
+       data-ga-click="Header, create new, icon:add">
+      <span class="octicon octicon-plus left"></span>
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="mattlewis92/angular-bootstrap-calendar">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/mattlewis92/angular-bootstrap-calendar/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </div>
+  </li>
+
+  <li class="header-nav-item dropdown js-menu-container">
+    <a class="header-nav-link name tooltipped tooltipped-s js-menu-target" href="/Pushp1403"
+       aria-label="View profile and more"
+       data-ga-click="Header, show menu, icon:avatar">
+      <img alt="@Pushp1403" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/12725577?v=3&amp;s=40" width="20" />
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <div class="dropdown-menu dropdown-menu-sw">
+        <div class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">Pushp1403</strong>
+        </div>
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/Pushp1403" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a>
+        <a class="dropdown-item" href="/stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a>
+        <a class="dropdown-item" href="/explore" data-ga-click="Header, go to explore, text:explore">
+          Explore
+        </a>
+        <a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a>
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a>
+
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="03+RStuvGvAR3UjoRjnD7zAKCd6fC1aHHjYLZuMDAXJjfF19oq4NtQfPEZTKHqX5oOomCkZhoyNq04zFK7l6wg==" /></div>
+          <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </li>
+</ul>
+
+
+    
+  </div>
+</div>
+
+        
+
+        
+<div class="flash flash-full js-notice flash-warn">
+<div class="container">
+      <h4 class="flash-content">
+        You don’t have any verified emails.  We recommend <a href="https://github.com/settings/emails">verifying</a> at least one email.
+      </h4>
+      Email verification helps our support team verify ownership if you lose account access
+        and allows you to receive all the notifications you ask for.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+      <div id="start-of-content" class="accessibility-aid"></div>
+
+      <div id="js-flash-container">
+</div>
+
+
+          <div itemscope itemtype="http://schema.org/WebPage">
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+
+        <div class="clearfix">
+          
+<ul class="pagehead-actions">
+
+  <li>
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dxRg7nGb8CAXqYON+qpmwywgqpnacOjrq2C5mTJMuLRQP8XtjVD83oSLthRCGGYKuxfowpMFEoCH6kA0eG55sQ==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="24531144" />
+
+      <div class="select-menu js-menu-container js-select-menu">
+        <a href="/mattlewis92/angular-bootstrap-calendar/subscription"
+          class="btn btn-sm btn-with-count select-menu-button js-menu-target" role="button" tabindex="0" aria-haspopup="true"
+          data-ga-click="Repository, click Watch settings, action:blob#show">
+          <span class="js-select-button">
+            <span class="octicon octicon-eye"></span>
+            Watch
+          </span>
+        </a>
+        <a class="social-count js-social-count" href="/mattlewis92/angular-bootstrap-calendar/watchers">
+          21
+        </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content" aria-hidden="true">
+            <div class="select-menu-header">
+              <span class="select-menu-title">Notifications</span>
+              <span class="octicon octicon-x js-menu-close" role="button" aria-label="Close"></span>
+            </div>
+
+            <div class="select-menu-list js-navigation-container" role="menu">
+
+              <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                <span class="select-menu-item-icon octicon octicon-check"></span>
+                <div class="select-menu-item-text">
+                  <input checked="checked" id="do_included" name="do" type="radio" value="included" />
+                  <span class="select-menu-item-heading">Not watching</span>
+                  <span class="description">Be notified when participating or @mentioned.</span>
+                  <span class="js-select-button-text hidden-select-button-text">
+                    <span class="octicon octicon-eye"></span>
+                    Watch
+                  </span>
+                </div>
+              </div>
+
+              <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                <span class="select-menu-item-icon octicon octicon octicon-check"></span>
+                <div class="select-menu-item-text">
+                  <input id="do_subscribed" name="do" type="radio" value="subscribed" />
+                  <span class="select-menu-item-heading">Watching</span>
+                  <span class="description">Be notified of all conversations.</span>
+                  <span class="js-select-button-text hidden-select-button-text">
+                    <span class="octicon octicon-eye"></span>
+                    Unwatch
+                  </span>
+                </div>
+              </div>
+
+              <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                <span class="select-menu-item-icon octicon octicon-check"></span>
+                <div class="select-menu-item-text">
+                  <input id="do_ignore" name="do" type="radio" value="ignore" />
+                  <span class="select-menu-item-heading">Ignoring</span>
+                  <span class="description">Never be notified.</span>
+                  <span class="js-select-button-text hidden-select-button-text">
+                    <span class="octicon octicon-mute"></span>
+                    Stop ignoring
+                  </span>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/mattlewis92/angular-bootstrap-calendar/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="NiVmoBwVFUZRF3jDCyicPiz4f8pQ5wxkQusLuMh6wBUDfju9veeYBpZdw4irWL3taRKwnKbZjE1sLdUXmYdKag==" /></div>
+      <button
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar mattlewis92/angular-bootstrap-calendar"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <span class="octicon octicon-star"></span>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/mattlewis92/angular-bootstrap-calendar/stargazers">
+          192
+        </a>
+</form>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/mattlewis92/angular-bootstrap-calendar/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zGB8TYyfUN8zZ6CGEIa0DLcYFeFYZaPmnvMM8RzgGHR1N/xp4v4m5LJImkq/+YIIMeHeys19XARJkGLTKj5snw==" /></div>
+      <button
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star mattlewis92/angular-bootstrap-calendar"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <span class="octicon octicon-star"></span>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/mattlewis92/angular-bootstrap-calendar/stargazers">
+          192
+        </a>
+</form>  </div>
+
+  </li>
+
+        <li>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/mattlewis92/angular-bootstrap-calendar/fork" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Gdmis+twvMwFM0PSxIBqRI1RQjzbxQiRhy9wRRsZJA/LELXXf3AZ3S+dko0TcFnK/2LS2PeL6ch/46dsLqtnwA==" /></div>
+            <button
+                type="submit"
+                class="btn btn-sm btn-with-count"
+                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
+                title="Fork your own copy of mattlewis92/angular-bootstrap-calendar to your account"
+                aria-label="Fork your own copy of mattlewis92/angular-bootstrap-calendar to your account">
+              <span class="octicon octicon-repo-forked"></span>
+              Fork
+            </button>
+            <a href="/mattlewis92/angular-bootstrap-calendar/network" class="social-count">89</a>
+</form>        </li>
+
+</ul>
+
+          <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public ">
+  <span class="mega-octicon octicon-repo"></span>
+  <span class="author"><a href="/mattlewis92" class="url fn" itemprop="url" rel="author"><span itemprop="title">mattlewis92</span></a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong><a href="/mattlewis92/angular-bootstrap-calendar" data-pjax="#js-repo-pjax-container">angular-bootstrap-calendar</a></strong>
+
+  <span class="page-context-loader">
+    <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+  </span>
+
+</h1>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="repository-with-sidebar repo-container new-discussion-timeline ">
+        <div class="repository-sidebar clearfix">
+          
+<nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container"
+     data-issue-count-url="/mattlewis92/angular-bootstrap-calendar/issues/counts">
+  <ul class="sunken-menu-group">
+    <li class="tooltipped tooltipped-w" aria-label="Code">
+      <a href="/mattlewis92/angular-bootstrap-calendar" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /mattlewis92/angular-bootstrap-calendar">
+        <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Issues">
+        <a href="/mattlewis92/angular-bootstrap-calendar/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /mattlewis92/angular-bootstrap-calendar/issues">
+          <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+          <span class="js-issue-replace-counter"></span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+    <li class="tooltipped tooltipped-w" aria-label="Pull requests">
+      <a href="/mattlewis92/angular-bootstrap-calendar/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /mattlewis92/angular-bootstrap-calendar/pulls">
+          <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull requests</span>
+          <span class="js-pull-replace-counter"></span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Wiki">
+        <a href="/mattlewis92/angular-bootstrap-calendar/wiki" aria-label="Wiki" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g w" data-selected-links="repo_wiki /mattlewis92/angular-bootstrap-calendar/wiki">
+          <span class="octicon octicon-book"></span> <span class="full-word">Wiki</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+  </ul>
+  <div class="sunken-menu-separator"></div>
+  <ul class="sunken-menu-group">
+
+    <li class="tooltipped tooltipped-w" aria-label="Pulse">
+      <a href="/mattlewis92/angular-bootstrap-calendar/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /mattlewis92/angular-bootstrap-calendar/pulse">
+        <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+    <li class="tooltipped tooltipped-w" aria-label="Graphs">
+      <a href="/mattlewis92/angular-bootstrap-calendar/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /mattlewis92/angular-bootstrap-calendar/graphs">
+        <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+  </ul>
+
+
+</nav>
+
+            <div class="only-with-full-nav">
+                
+<div class="js-clone-url clone-url open"
+  data-protocol-type="http">
+  <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/mattlewis92/angular-bootstrap-calendar.git" readonly="readonly" aria-label="HTTPS clone URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="ssh">
+  <h3><span class="text-emphasized">SSH</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="git@github.com:mattlewis92/angular-bootstrap-calendar.git" readonly="readonly" aria-label="SSH clone URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="subversion">
+  <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/mattlewis92/angular-bootstrap-calendar" readonly="readonly" aria-label="Subversion checkout URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+
+  <div class="clone-options">You can clone with
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Kn+OTfjVdZp6sOfpksCg9d2ESWwK482Oo/sdXaaif/vSACEvsbx16znGMknb+SBDukY4yVVruVNbLfnxckLQ2Q==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7UZjING21K1B9gG9RFM9AfcGioVCn9uiNXBSPi/GEfwpl3KJbPzLxzHICqWRHci9h9gIcTblaNaImcLOkvTIAQ==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KxgiVgGQzbwthdAI74OnigBOPixpLbZksqhV5zPJPjmzMHiNLKipWpq7S0L2OJvh4KpgxC34hLFkvPuk7/DkSw==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+    <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+      <span class="octicon octicon-question"></span>
+    </a>
+  </div>
+    <a href="https://windows.github.com" class="btn btn-sm sidebar-button" title="Save mattlewis92/angular-bootstrap-calendar to your computer and use it in GitHub Desktop." aria-label="Save mattlewis92/angular-bootstrap-calendar to your computer and use it in GitHub Desktop.">
+      <span class="octicon octicon-desktop-download"></span>
+      Clone in Desktop
+    </a>
+
+              <a href="/mattlewis92/angular-bootstrap-calendar/archive/master.zip"
+                 class="btn btn-sm sidebar-button"
+                 aria-label="Download the contents of mattlewis92/angular-bootstrap-calendar as a zip file"
+                 title="Download the contents of mattlewis92/angular-bootstrap-calendar as a zip file"
+                 rel="nofollow">
+                <span class="octicon octicon-cloud-download"></span>
+                Download ZIP
+              </a>
+            </div>
+        </div>
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+
+          
+
+<a href="/mattlewis92/angular-bootstrap-calendar/blob/f1dbd06913b1242f55a2c8fc556a1745860bcdc2/dist/css/angular-bootstrap-calendar.min.css.map" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+
+<!-- blob contrib key: blob_contributors:v21:6f7ccb66e773fae1d044238912fc20d9 -->
+
+  <div class="file-navigation js-zeroclipboard-container">
+    
+<div class="select-menu js-menu-container js-select-menu left">
+  <span class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    data-ref="master"
+    title="master"
+    role="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <i>Branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-x js-menu-close" role="button" aria-label="Close"></span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/mattlewis92/angular-bootstrap-calendar/blob/feat-recurs-weekly/dist/css/angular-bootstrap-calendar.min.css.map"
+               data-name="feat-recurs-weekly"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <span class="select-menu-item-text css-truncate-target" title="feat-recurs-weekly">
+                feat-recurs-weekly
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/mattlewis92/angular-bootstrap-calendar/blob/gh-pages/dist/css/angular-bootstrap-calendar.min.css.map"
+               data-name="gh-pages"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <span class="select-menu-item-text css-truncate-target" title="gh-pages">
+                gh-pages
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/mattlewis92/angular-bootstrap-calendar/blob/master/dist/css/angular-bootstrap-calendar.min.css.map"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <span class="select-menu-item-text css-truncate-target" title="master">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.15.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.15.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.15.0">0.15.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.6/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.6"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.6">0.14.6</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.5/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.5"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.5">0.14.5</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.4/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.4"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.4">0.14.4</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.3/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.3"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.3">0.14.3</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.2">0.14.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.1">0.14.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.14.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.14.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.14.0">0.14.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.13.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.13.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.13.0">0.13.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.12.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.12.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.12.0">0.12.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.11.3/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.11.3"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.11.3">0.11.3</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.11.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.11.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.11.2">0.11.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.11.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.11.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.11.1">0.11.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.11.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.11.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.11.0">0.11.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.7/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.7"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.7">0.10.7</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.6/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.6"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.6">0.10.6</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.5/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.5"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.5">0.10.5</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.4/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.4"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.4">0.10.4</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.3/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.3"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.3">0.10.3</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.2">0.10.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.1">0.10.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.10.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.10.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.10.0">0.10.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.9.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.9.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.9.2">0.9.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.9.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.9.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.9.1">0.9.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.9.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.9.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.9.0">0.9.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.8.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.8.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.8.1">0.8.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.8.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.8.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.8.0">0.8.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.7.4/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.7.4"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.7.4">0.7.4</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.7.3/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.7.3"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.7.3">0.7.3</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.7.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.7.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.7.2">0.7.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.7.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.7.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.7.1">0.7.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.7.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.7.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.7.0">0.7.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.6.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.6.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.6.0">0.6.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.5.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.5.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.5.0">0.5.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.4.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.4.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.4.2">0.4.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.4.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.4.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.4.1">0.4.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.4.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.4.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.4.0">0.4.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.3.2/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.3.2"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.3.2">0.3.2</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.3.1/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.3.1"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.3.1">0.3.1</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.3.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.3.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.3.0">0.3.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.2.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.2.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.2.0">0.2.0</a>
+            </div>
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/mattlewis92/angular-bootstrap-calendar/tree/0.1.0/dist/css/angular-bootstrap-calendar.min.css.map"
+                 data-name="0.1.0"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="0.1.0">0.1.0</a>
+            </div>
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="btn-group right">
+      <a href="/mattlewis92/angular-bootstrap-calendar/find/master"
+            class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-nw"
+            data-pjax
+            data-hotkey="t"
+            aria-label="Quickly jump between files">
+        <span class="octicon octicon-list-unordered"></span>
+      </a>
+      <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </div>
+
+    <div class="breadcrumb js-zeroclipboard-target">
+      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/mattlewis92/angular-bootstrap-calendar" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">angular-bootstrap-calendar</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/mattlewis92/angular-bootstrap-calendar/tree/master/dist" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">dist</span></a></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/mattlewis92/angular-bootstrap-calendar/tree/master/dist/css" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">css</span></a></span><span class="separator">/</span><strong class="final-path">angular-bootstrap-calendar.min.css.map</strong>
+    </div>
+  </div>
+
+
+  <div class="commit file-history-tease">
+    <div class="file-history-tease-header">
+        <img alt="@mattlewis92" class="avatar" height="24" src="https://avatars0.githubusercontent.com/u/6425649?v=3&amp;s=48" width="24" />
+        <span class="author"><a href="/mattlewis92" rel="author">mattlewis92</a></span>
+        <time datetime="2015-08-29T18:35:16Z" is="relative-time">Aug 29, 2015</time>
+        <div class="commit-title">
+            <a href="/mattlewis92/angular-bootstrap-calendar/commit/b3485acce4c29808580a310b5a109180e3eec887" class="message" data-pjax="true" title="Release 0.15.0">Release 0.15.0</a>
+        </div>
+    </div>
+
+    <div class="participation">
+      <p class="quickstat">
+        <a href="#blob_contributors_box" rel="facebox">
+          <strong>1</strong>
+           contributor
+        </a>
+      </p>
+      
+    </div>
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header" id="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list" id="facebox-description">
+          <li class="facebox-user-list-item">
+            <img alt="@mattlewis92" height="24" src="https://avatars0.githubusercontent.com/u/6425649?v=3&amp;s=48" width="24" />
+            <a href="/mattlewis92">mattlewis92</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="file">
+  <div class="file-header">
+    <div class="file-actions">
+
+      <div class="btn-group">
+        <a href="/mattlewis92/angular-bootstrap-calendar/raw/master/dist/css/angular-bootstrap-calendar.min.css.map" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/mattlewis92/angular-bootstrap-calendar/blame/master/dist/css/angular-bootstrap-calendar.min.css.map" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/mattlewis92/angular-bootstrap-calendar/commits/master/dist/css/angular-bootstrap-calendar.min.css.map" class="btn btn-sm " rel="nofollow">History</a>
+      </div>
+
+        <a class="octicon-btn tooltipped tooltipped-nw"
+           href="https://windows.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:windows">
+            <span class="octicon octicon-device-desktop"></span>
+        </a>
+
+            <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/mattlewis92/angular-bootstrap-calendar/edit/master/dist/css/angular-bootstrap-calendar.min.css.map" class="inline-form" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DoXCKqaokjuLaX9YRAyguU+edFKHKbUF+QJh2QojtfhEHDwmtdQNxzzq4js9m4oLSjI9gYjRS52uqx0D25ED5Q==" /></div>
+              <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+                <span class="octicon octicon-pencil"></span>
+              </button>
+</form>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/mattlewis92/angular-bootstrap-calendar/delete/master/dist/css/angular-bootstrap-calendar.min.css.map" class="inline-form" data-form-nonce="af5d71552d9477531f8b7bc89127383c6bc89e64" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jaUzwf4EslgLOBmwzZVflxqfnl0HRNpcatUuAT9TT16yZyGjBibjlro5dOacskHKVBcX0OoPPb77CF487ug4VQ==" /></div>
+            <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Fork this project and delete this file" data-disable-with>
+              <span class="octicon octicon-trashcan"></span>
+            </button>
+</form>    </div>
+
+    <div class="file-info">
+        1 lines (1 sloc)
+        <span class="file-info-divider"></span>
+      15.887 kB
+    </div>
+  </div>
+  
+
+  <div class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="2">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">{&quot;version&quot;:3,&quot;sources&quot;:[&quot;webpack:///./src/less/grid.less&quot;,&quot;webpack:///./src/less/month.less&quot;,&quot;webpack:///./src/less/week.less&quot;,&quot;webpack:///./src/less/day.less&quot;,&quot;webpack:///./src/less/events.less&quot;,&quot;webpack:///./src/less/theme.less&quot;],&quot;names&quot;:[],&quot;mappings&quot;:&quot;;;;;;;;AAAA,kBACE,WACA,cACA,eAGF,eACE,WACA,QAGF,2CAEE,cACA,WACA,cAGF,qBACE,WAGF,iCACE,cACA,WAGA,sBACA,WACA,cACA,yBAOF,8GACE,cAEF,0BACE,WACA,mBAEF,0BACE,mBACA,oBAEF,0BACE,mBACA,oBAEF,0BACE,mBACA,oBAEF,0BACE,mBACA,oBAEF,0BACE,mBACA,oBAEF,0BACE,mBACA,oBAEF,+FAGE,iBACA,0BAGF,+FAGE,yBACA,0BAEF,+FAGE,yBACA,0BAEF,+FAGE,yBACA,0BAEF,+FAGE,yBACA,0BAEF,+FAGE,yBACA,0BAEF,+FAGE,yBACA,0BAGF,0BACE,mBACA,oBAGF,6DAEE,aAGF,yEAEE,YC5HF,4EAEC,gBACA,gBACA,uBAED,gBACE,gBAEF,eACE,kBACA,cACA,WAGF,+BACE,iBACA,gBAGF,cAEE,WACA,WACA,SACA,eACA,CAGF,4BARE,kBAKA,eAcF,cATE,UACA,aACA,cAEA,UACA,kBACA,WACA,mBAEF,4BACE,kBAGF,eACE,kBAGF,gBACE,kBACA,UACA,iBACA,WACA,SACA,UAEF,4BACE,WAEF,4BACE,WAEF,4BACE,WAEF,4BACE,WAGF,0BACE,iBAEF,0BACE,kBAEF,0BACE,kBAEF,0BACE,SAEF,0BACE,kBAEF,0BACE,kBAEF,0BACE,kBAEF,aACE,kBACA,SACA,OACA,aAEF,+BACE,gBAEF,qDACE,WCpGF,cACE,kBADF,iCAGI,mBACA,YACA,iBACA,uBACA,gBACA,wBACA,uBACA,0BACA,cACA,wBAZJ,6BAeI,mBAIJ,wCAEI,kBAFJ,yCAKI,kBCxBJ,aACE,eACA,0BACA,kBAHF,gCAMI,YACA,sBACA,2BACA,8BACA,kCAVJ,0CAcM,YAdN,wBAkBI,gBACA,cAnBJ,0CAsBI,yBAtBJ,4BAyBI,kBACA,kBACA,yBA3BJ,iCA8BI,kBACA,WACA,kBAhCJ,wBAmCI,kBACA,YACA,gBACA,0BAtCJ,0BAyCM,cACA,uBA1CN,4BA+CI,gBACA,iBACA,kBACA,sBACA,2BACA,8BACA,yBACA,WACA,gBACA,uBAxDJ,+CA2DI,yBA3DJ,6CA8DI,yBA9DJ,0CAiEI,yBAjEJ,6CAoEI,yBApEJ,6CAuEI,yBAvEJ,6CA0EI,yBACA,wBC3EJ,OAGE,UACA,WACA,iBACA,kBAEA,0CACA,kBACA,sBAGF,oBAZE,cACA,wBACA,CAiBF,aAJE,WACA,YAGF,iCACE,eAGF,iBACE,yBAGF,YACE,yBAGF,eACE,yBAGF,eACE,yBAGF,eACE,yBAGF,eACE,wBAGF,oCAEE,sBAGF,0EAEE,yBAGF,sEAEE,yBAGF,gEAEE,yBAGF,sEAEE,yBAGF,sEAEE,yBAGF,sEAEE,yBChFF,4EAEE,mBACA,kBACA,eACA,cAEF,sCACE,gBAEF,8CAEE,yBAEF,eACE,YAEF,yFACE,yBAEF,6DAEE,gBACA,+BACA,kBAEF,4BACE,gBAEF,iGAEE,eAEF,iDAEE,gCACA,cACA,eAEF,uEAEE,gBAEF,2CAME,yBACA,kBAEF,eACE,eACA,gBAEF,oBACE,gBACA,gBACA,WACA,+BACA,uCACA,oCACA,mCACA,kCACA,gBACA,kBAEF,0BACE,UAGF,sCACE,WACA,eAGF,eACE,yBAGF,mCACE,cAEF,kDACE,gBAEF,qCACE,aAGF,qCACE,cAGF,cACE,yBACA,eACA,0BACA,yBACA,iBAGF,4BACE,gCAGF,cACE,yBACA,mBACA,0BACA,yBACA,kBALF,kBAQI,aAKJ,eACE,2BAGF,mBACE,aACA,WACA,sBAEA,2CAGF,gCACE,WACA,gBAGF,sCACE,iBAGF,gHAGE,kBACA,SAGF,aACE,gBACA,iBAEF,YACE,8BAEF,iBACE,qBACA,cAEF,iBACC,yBAGD,SACE,eAGF,yBACE,gBAGF,aACE,WAcF,yBATE,yCACE,eAGF,kFACE&quot;,&quot;file&quot;:&quot;../css/angular-bootstrap-calendar.min.css&quot;,&quot;sourcesContent&quot;:[&quot;[class*=\&quot;cal-cell\&quot;] {\n  float: left;\n  margin-left: 0;\n  min-height: 1px;\n}\n\n.cal-row-fluid {\n  width: 100%;\n  *zoom: 1;\n}\n\n.cal-row-fluid:before,\n.cal-row-fluid:after {\n  display: table;\n  content: \&quot;\&quot;;\n  line-height: 0;\n}\n\n.cal-row-fluid:after {\n  clear: both;\n}\n\n.cal-row-fluid [class*=\&quot;cal-cell\&quot;] {\n  display: block;\n  width: 100%;\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n  float: left;\n  margin-left: 0%;\n  *margin-left: -0.05213764337851929%;\n}\n\n.cal-row-fluid [class*=\&quot;cal-cell\&quot;]:first-child {\n  margin-left: 0;\n}\n\n.cal-row-fluid .controls-row [class*=\&quot;cal-cell\&quot;] + [class*=\&quot;cal-cell\&quot;] {\n  margin-left: 0%;\n}\n.cal-row-fluid .cal-cell7 {\n  width: 100%;\n  *width: 99.94669509594883%;\n}\n.cal-row-fluid .cal-cell6 {\n  width: 85.71428571428571%;\n  *width: 85.66098081023453%;\n}\n.cal-row-fluid .cal-cell5 {\n  width: 71.42857142857142%;\n  *width: 71.37526652452024%;\n}\n.cal-row-fluid .cal-cell4 {\n  width: 57.14285714285714%;\n  *width: 57.089552238805965%;\n}\n.cal-row-fluid .cal-cell3 {\n  width: 42.857142857142854%;\n  *width: 42.80383795309168%;\n}\n.cal-row-fluid .cal-cell2 {\n  width: 28.57142857142857%;\n  *width: 28.518123667377395%;\n}\n.cal-row-fluid .cal-cell1 {\n  width: 14.285714285714285%;\n  *width: 14.232409381663112%;\n}\n.cal-week-box .cal-offset7,\n.cal-row-fluid .cal-offset7,\n.cal-row-fluid .cal-offset7:first-child {\n  margin-left: 100%;\n  *margin-left: 99.89339019189765%;\n}\n\n.cal-week-box .cal-offset6,\n.cal-row-fluid .cal-offset6,\n.cal-row-fluid .cal-offset6:first-child {\n  margin-left: 85.71428571428571%;\n  *margin-left: 85.60767590618336%;\n}\n.cal-week-box .cal-offset5,\n.cal-row-fluid .cal-offset5,\n.cal-row-fluid .cal-offset5:first-child {\n  margin-left: 71.42857142857142%;\n  *margin-left: 71.32196162046907%;\n}\n.cal-week-box .cal-offset4,\n.cal-row-fluid .cal-offset4,\n.cal-row-fluid .cal-offset4:first-child {\n  margin-left: 57.14285714285714%;\n  *margin-left: 57.03624733475479%;\n}\n.cal-week-box .cal-offset3,\n.cal-row-fluid .cal-offset3,\n.cal-row-fluid .cal-offset3:first-child {\n  margin-left: 42.857142857142854%;\n  *margin-left: 42.750533049040506%;\n}\n.cal-week-box .cal-offset2,\n.cal-row-fluid .cal-offset2,\n.cal-row-fluid .cal-offset2:first-child {\n  margin-left: 28.57142857142857%;\n  *margin-left: 28.46481876332622%;\n}\n.cal-week-box .cal-offset1,\n.cal-row-fluid .cal-offset1,\n.cal-row-fluid .cal-offset1:first-child {\n  margin-left: 14.285714285714285%;\n  *margin-left: 14.17910447761194%;\n}\n\n.cal-row-fluid .cal-cell1 {\n  width: 14.285714285714285%;\n  *width: 14.233576642335766%;\n}\n\n[class*=\&quot;cal-cell\&quot;].hide,\n.cal-row-fluid [class*=\&quot;cal-cell\&quot;].hide {\n  display: none;\n}\n\n[class*=\&quot;cal-cell\&quot;].pull-right,\n.cal-row-fluid [class*=\&quot;cal-cell\&quot;].pull-right {\n  float: right;\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///less-loader?sourceMap!./src/less/grid.less\n **/&quot;,&quot;.cal-row-head [class*=\&quot;cal-cell\&quot;]:first-child,\n.cal-row-head [class*=\&quot;cal-cell\&quot;] {\n\tmin-height: auto;\n\toverflow: hidden;\n\ttext-overflow: ellipsis;\n}\n.cal-events-num {\n  margin-top: 20px;\n}\n.cal-month-day {\n  position: relative;\n  display: block;\n  width: 100%;\n}\n\n.cal-month-day .cal-events-num {\n  margin-left: 10px;\n  margin-top: 18px;\n}\n\n#cal-week-box {\n  position: absolute;\n  width: 70px;\n  left: -71px;\n  top: -1px;\n  padding: 8px 5px;\n  cursor: pointer;\n}\n\n.cal-day-tick {\n  position: absolute;\n  right: 50%;\n  bottom: -21px;\n  padding: 0px 5px;\n  cursor: pointer;\n  z-index: 5;\n  text-align: center;\n  width: 26px;\n  margin-right: -17px;\n}\n.cal-year-box #cal-day-tick {\n  margin-right: -7px;\n}\n\n.cal-slide-box {\n  position: relative;\n}\n\n.cal-slide-tick {\n  position: absolute;\n  width: 16px;\n  margin-left: -7px;\n  height: 9px;\n  top: -1px;\n  z-index: 1;\n}\n.cal-slide-tick.tick-month1 {\n  left: 12.5%;\n}\n.cal-slide-tick.tick-month2 {\n  left: 37.5%;\n}\n.cal-slide-tick.tick-month3 {\n  left: 62.5%;\n}\n.cal-slide-tick.tick-month4 {\n  left: 87.5%;\n}\n\n.cal-slide-tick.tick-day1 {\n  left: 7.14285714285715%;\n}\n.cal-slide-tick.tick-day2 {\n  left: 21.42857142857143%;\n}\n.cal-slide-tick.tick-day3 {\n  left: 35.71428571428572%;\n}\n.cal-slide-tick.tick-day4 {\n  left: 50%;\n}\n.cal-slide-tick.tick-day5 {\n  left: 64.2857142857143%;\n}\n.cal-slide-tick.tick-day6 {\n  left: 78.57142857142859%;\n}\n.cal-slide-tick.tick-day7 {\n  left: 92.85714285714285%;\n}\n.events-list {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  z-index: 1000;\n}\n.cal-slide-content ul.unstyled {\n  margin-bottom: 0;\n}\n.cal-slide-content ul li.dragging-active .event-item {\n  color: black;\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///less-loader?sourceMap!./src/less/month.less\n **/&quot;,&quot;.cal-week-box {\n  position: relative;\n  [data-event-class] {\n    white-space: nowrap;\n    height: 30px;\n    line-height: 30px;\n    text-overflow: ellipsis;\n    overflow: hidden;\n    padding-top: 0px !important;\n    margin-top: 0px !important;\n    margin-bottom: 0px !important;\n    font-size: 12px;\n    padding: 0 3px !important;\n  }\n  .cal-day-panel {\n    border: 0px !important;\n  }\n}\n\n.cal-week-box.cal-day-box {\n  .cal-row-head {\n    padding-left: 60px;\n  }\n  .cal-day-panel {\n    overflow-x: hidden;\n  }\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///less-loader?sourceMap!./src/less/week.less\n **/&quot;,&quot;.cal-day-box {\n  text-wrap: none;\n  overflow-x: auto !important;\n  overflow-y: hidden;\n\n  .cal-day-hour-part {\n    height: 30px;\n    box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    -webkit-box-sizing: border-box;\n    border-bottom: thin dashed @borderColor;\n  }\n  .cal-day-hour {\n    .day-highlight {\n      height: 30px;\n    }\n  }\n  .cal-hours {\n    font-weight: bold;\n    font-size: 12px;\n  }\n  .cal-day-hour:nth-child(odd) {\n    background-color: @rowHover;\n  }\n  .cal-day-panel {\n    position: relative;\n    padding-left: 60px;\n    border: solid 1px #e1e1e1;\n  }\n  .cal-day-panel-hour {\n    position: absolute;\n    width: 100%;\n    margin-left: -60px;\n  }\n  .day-event {\n    position: absolute;\n    width: 150px;\n    overflow: hidden;\n    padding: 2px 3px !important;\n\n    a {\n      font-size: 12px;\n      text-overflow: ellipsis;\n    }\n\n  }\n  .day-highlight {\n    padding-top: 2px;\n    padding-left: 8px;\n    padding-right: 8px;\n    box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    -webkit-box-sizing: border-box;\n    border: 1px solid @eventStandardColor;\n    margin: 1px 1px;\n    overflow: hidden;\n    text-overflow: ellipsis;\n  }\n  .day-highlight.dh-event-important {\n    border: 1px solid @eventImportantColor;\n  }\n  .day-highlight.dh-event-warning {\n    border: 1px solid @eventWarningColor;\n  }\n  .day-highlight.dh-event-info {\n    border: 1px solid @eventInfoColor;\n  }\n  .day-highlight.dh-event-inverse {\n    border: 1px solid @eventInverseColor;\n  }\n  .day-highlight.dh-event-success {\n    border: 1px solid @eventSuccessColor;\n  }\n  .day-highlight.dh-event-special {\n    background-color: @eventHiliteSpecial;\n    border: 1px solid @eventSpecialColor;\n  }\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///less-loader?sourceMap!./src/less/day.less\n **/&quot;,&quot;.event {\n  display: block;\n  background-color: @eventStandardColor;\n  width: @eventSize;\n  height: @eventSize;\n  margin-right: @eventMargin;\n  margin-bottom: @eventMargin;\n  -webkit-box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.4);\n  box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.4);\n  border-radius: @eventBorderRadius;\n  border: @eventBorderSize solid @eventBorderColor;\n}\n\n.event-block {\n  display: block;\n  background-color:  #c3c3c3;\n  width: 20px;\n  height: 100%;\n}\n\n.cal-event-list .event.pull-left {\n  margin-top: 3px;\n}\n\n.event-important {\n  background-color: @eventImportantColor;\n}\n\n.event-info {\n  background-color: @eventInfoColor;\n}\n\n.event-warning {\n  background-color: @eventWarningColor;\n}\n\n.event-inverse {\n  background-color: @eventInverseColor;\n}\n\n.event-success {\n  background-color: @eventSuccessColor;\n}\n\n.event-special {\n  background-color: @eventSpecialColor;\n}\n\n.day-highlight:hover,\n.day-highlight {\n  background-color: @eventHiliteStandart;\n}\n\n.day-highlight.dh-event-important:hover,\n.day-highlight.dh-event-important {\n  background-color: @eventHiliteImportant;\n}\n\n.day-highlight.dh-event-warning:hover,\n.day-highlight.dh-event-warning {\n  background-color: @eventHiliteWarning;\n}\n\n.day-highlight.dh-event-info:hover,\n.day-highlight.dh-event-info {\n  background-color: @eventHiliteInfo;\n}\n\n.day-highlight.dh-event-inverse:hover,\n.day-highlight.dh-event-inverse {\n  background-color: @eventHiliteInverse;\n}\n\n.day-highlight.dh-event-success:hover,\n.day-highlight.dh-event-success {\n  background-color: @eventHiliteSuccess;\n}\n\n.day-highlight.dh-event-special:hover,\n.day-highlight.dh-event-special {\n  background-color: @eventHiliteSpecial;\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///less-loader?sourceMap!./src/less/events.less\n **/&quot;,&quot;.cal-row-head [class*=\&quot;cal-cell\&quot;]:first-child,\n.cal-row-head [class*=\&quot;cal-cell\&quot;] {\n  font-weight: bolder;\n  text-align: center;\n  border: 0px solid;\n  padding: 5px 0;\n}\n.cal-row-head [class*=\&quot;cal-cell\&quot;] small {\n  font-weight: normal;\n}\n.cal-year-box .row:hover,\n.cal-row-fluid:hover {\n  background-color: @rowHover;\n}\n.cal-month-day {\n  height: @rowHeightMonth;\n}\n[class*=\&quot;cal-cell\&quot;]:hover, .cell-focus, [class*=\&quot;cal-cell\&quot;] .drop-active, .cal-cell.drop-active {\n  background-color: @dayHover;\n}\n.cal-year-box [class*=\&quot;span\&quot;],\n.cal-month-box [class*=\&quot;cal-cell\&quot;] {\n  min-height: @rowHeightMonth;\n  border-right: @borderSizevert @borderStyle @borderColor;\n  position: relative;\n}\n.cal-year-box [class*=\&quot;span\&quot;]{\n  min-height: @rowHeightYear;\n}\n.cal-year-box .row [class*=\&quot;col-\&quot;]:last-child,\n.cal-month-box .cal-row [class*=\&quot;cal-cell\&quot;]:last-child {\n  border-right: 0px;\n}\n.cal-year-box .row,\n.cal-month-box .cal-row-fluid {\n  border-bottom: @borderSizehoriz @borderStyle @borderColor;\n  margin-left: 0px;\n  margin-right: 0px;\n}\n.cal-year-box .row:last-child,\n.cal-month-box .cal-row-fluid:last-child {\n  border-bottom: 0px;\n}\n.cal-month-box,\n.cal-year-box,\n.cal-week-box {\n  border-top: @borderSizehoriz @borderStyle @borderColor;\n  border-bottom: @borderSizehoriz @borderStyle @borderColor;\n  border-right: @borderSizevert @borderStyle @borderColor;\n  border-left: @borderSizevert @borderStyle @borderColor;\n  border-radius: 2px;\n}\n.cal-month-box {\n  border-right: 0px;\n  border-bottom: 0px;\n}\nspan[data-cal-date] {\n  font-size: 1.2em;\n  font-weight: normal;\n  opacity: 0.5;\n  transition: all .3s ease-in-out;\n  -webkit-transition: all .1s ease-in-out;\n  -moz-transition: all .1s ease-in-out;\n  -ms-transition: all .1s ease-in-out;\n  -o-transition: all .1s ease-in-out;\n  margin-top: 15px;\n  margin-right: 15px;\n}\nspan[data-cal-date]:hover {\n  opacity: 1;\n}\n\n.cal-day-outmonth span[data-cal-date] {\n  opacity: 0.1;\n  cursor: default;\n}\n\n.cal-day-today {\n  background-color: #e8fde7;\n}\n\n.cal-day-today span[data-cal-date] {\n  color: darkgreen;\n}\n.cal-month-box .cal-day-today span[data-cal-date] {\n  font-size: 1.9em;\n}\n.cal-day-holiday span[data-cal-date] {\n  color: #800080;\n}\n\n.cal-day-weekend span[data-cal-date] {\n  color: darkred;\n}\n\n#cal-week-box {\n  border: @borderSize @borderStyle @borderColor;\n  border-right: 0px;\n  border-radius: 5px 0 0 5px;\n  background-color: @rowHover;\n  text-align: right;\n}\n\n.cal-week-box .cal-row-head {\n  border-bottom: 1px solid #e1e1e1;\n}\n\n.cal-day-tick {\n  border: @borderSize @borderStyle @borderColor;\n  border-top: 0px solid;\n  border-radius: 0 0 5px 5px;\n  background-color: @dayHover;\n  text-align: center;\n\n  .fa {\n    display: none;\n  }\n\n}\n\n.cal-slide-box {\n  border-top: 0px solid #8c8c8c;\n}\n\n.cal-slide-content {\n  padding: 20px;\n  color: #ffffff;\n  background-color: #555555;\n  -webkit-box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.5);\n  box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.5);\n}\n\n.cal-slide-content a.event-item {\n  color: #ffffff;\n  font-weight: normal;\n}\n\na.event-item-edit, a.event-item-delete {\n  padding-left: 5px;\n}\n\n.cal-year-box .cal-slide-content a.event-item,\n.cal-year-box a.event-item-edit,\n.cal-year-box a.event-item-delete {\n  position: relative;\n  top: -3px;\n}\n\n.events-list {\n  max-height: @rowHeightMonth  - 53px;\n  padding-left: 5px;\n}\n.cal-column {\n  border-left: @borderSize @borderStyle @borderColor;\n}\na.cal-event-week {\n  text-decoration: none;\n  color: #151515;\n}\n.badge-important {\n\tbackground-color:#b94a48;\n}\n\n.pointer {\n  cursor:pointer;\n}\n\n.cal-year-box:last-child {\n  border-bottom: 0px;\n}\n\n.cal-context {\n  width: 100%;\n}\n\n@media (max-width: 991px) {\n\n  .cal-year-box [class*=\&quot;span\&quot;]:nth-child(2) {\n    border-right: 0px;\n  }\n\n  .cal-year-box [class*=\&quot;span\&quot;]:nth-child(1), .cal-year-box [class*=\&quot;span\&quot;]:nth-child(2) {\n    border-bottom: 1px solid #e1e1e1;\n  }\n\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///less-loader?sourceMap!./src/less/theme.less\n **/&quot;],&quot;sourceRoot&quot;:&quot;&quot;}</td>
+      </tr>
+</table>
+
+  </div>
+
+</div>
+
+<a href="#jump-to-line" rel="facebox[.linejump]" data-hotkey="l" style="display:none">Jump to Line</a>
+<div id="jump-to-line" style="display:none">
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input class="linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+    <button type="submit" class="btn">Go</button>
+</form></div>
+
+        </div>
+      </div>
+      <div class="modal-backdrop"></div>
+    </div>
+  </div>
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+        <li><a href="https://github.com/pricing" data-ga-click="Footer, go to pricing, text:pricing">Pricing</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2015 <span title="0.08373s from github-fe140-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-suggester-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="fullscreen-contents js-fullscreen-contents" placeholder="" aria-label=""></textarea>
+      <div class="suggester-container">
+        <div class="suggester fullscreen-suggester js-suggester js-navigation-container"></div>
+      </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped tooltipped-w" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped tooltipped-w"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    
+    
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+        <span class="octicon octicon-x"></span>
+      </button>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-d7cbc328221b63673aac67b399de66c8e6f35a47e7de3cbd7464d96637d23d67.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github/index-76fa08f7c5a84a9806e364e31b1b3fff5bf45c3e2e5be78b11677bc6ef3c5dd4.js"></script>
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
+      <span class="octicon octicon-alert"></span>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+  </body>
+</html>
+

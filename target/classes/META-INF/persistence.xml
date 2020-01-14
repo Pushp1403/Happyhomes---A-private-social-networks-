@@ -1,0 +1,21 @@
+<persistence version="2.0"
+	xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+                        http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="happyhomesbasic"
+		transaction-type="JTA">
+		<class>com.pushpendra.happyhomes.model.society.Society</class>
+		<class>com.pushpendra.happyhomes.model.security.UserAuthenticationDetail</class>
+		<jta-data-source>java:jboss/datasources/HappyHomesDSBasic</jta-data-source>
+		<properties>
+			<property name="jboss.entity.manager.factory.jndi.name"
+				value="java:jboss/HappyHomes/happyhomesbasic" />
+			<!-- Properties for Hibernate -->
+			<property name="hibernate.show_sql" value="true" />
+			<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5Dialect" />
+			<property name="hibernate.transaction.jta.platform"
+				value="org.hibernate.service.jta.platform.internal.JBossAppServerJtaPlatform" />
+			<property name="current_session_context_class" value="managed"/>
+		</properties>
+	</persistence-unit>
+</persistence>

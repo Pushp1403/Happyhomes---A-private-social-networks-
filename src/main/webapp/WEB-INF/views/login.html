@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html data-ng-app="HappyHomes">
+<head>
+<title>HappyHomes</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/angular.min.js"></script>
+<script src="/HappyHomes/static/resources/js/ui-router.js"> </script>
+<link rel="stylesheet" type="text/css"
+	href="/HappyHomes/static/resources/css/bootstrap.min.css" />
+<link rel="stylesheet"
+	href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
+<link rel="stylesheet" type="text/css"
+	href="/HappyHomes/static/resources/css/the-big-picture.css" />
+<link rel="stylesheet" type="text/css"
+	href="/HappyHomes/static/resources/css/fontawesome.css" />
+<link href='/HappyHomes/static/resources/css/fonts.css' rel='stylesheet'
+	type='text/css' />
+<link href='/HappyHomes/static/resources/css/calender.css' rel='stylesheet'
+	type='text/css' />
+<script src="/HappyHomes/static/resources/js/angular-animate.js"></script>
+
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/jquery.min.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/moments.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/Bootstrap.min.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/ui.bootstrap.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/ui-bootstrap-tpls-0.13.2.min.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/happyhomesapp.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/calender.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/controllers/HappyHomesController.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/services/HappyHomeService.js"></script>
+<script type="text/javascript"
+	src="/HappyHomes/static/resources/js/ngStorage.js"></script>	
+<style type="text/css">
+[ng\:cloak], [ng-cloak], .ng-cloak {
+	display: none !important;
+}
+</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" />
+</head>
+<body style="padding-top: 50px">
+<div data-ng-controller="navigationController">
+	<div id="top-nav"
+		class="navbar navbar-inverse navbar-static-top navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+					data-target=".navbar-collapse">
+					<span class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">HappyHomes</a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right" ng-show="isAuthenticated()">
+					<li class="dropdown"><a class="dropdown-toggle" role="button"
+						data-toggle="dropdown" href="#"><i
+							class="glyphicon glyphicon-user"></i> User <span class="caret"></span></a>
+						<ul id="g-account-menu" class="dropdown-menu" role="menu">
+							<li><a href="#">My Profile</a></li>
+						</ul></li>
+					<li><a href="/HappyHomes/logout"><i class="glyphicon glyphicon-lock"></i>
+							Logout</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- /container -->
+	</div>
+	<div ui-view = 'loginPannel'></div>
+	<div ui-view></div>
+</div>
+	<!-- <div ng-view></div> -->
+	
+</body>
+</html>

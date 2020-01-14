@@ -1,0 +1,85 @@
+<div class="container paddingbox">
+	<div class="row">
+		<div
+			class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
+			<form role="form" data-ng-submit="confirmAddress()">
+				<h2>
+					{{ signUpMessage1 }} <small> {{ signUpMessage2 }}</small>
+				</h2>
+				<hr class="colorgraph">
+				<div class="alert alert-danger"
+						data-ng-show="signup.user.invalidUsernamePassword" role="alert">{{
+						signup.user.errorMessage }}</div>
+				<div class="row">
+					<div class="col-xs-12 col-sm-8 col-md-6">
+						<div class="form-group">
+							<select class="form-control" ng-change="getAllCities()"
+								data-ng-options="state.stateName for state in states"
+								data-ng-model="signup.user.societyState"></select>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-6">
+						<div class="form-group">
+							<select class="form-control"
+								data-ng-options="city.cityName for city in cities"
+								data-ng-model="signup.user.societyCity" data-ng-required="true"></select>
+						</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<input type="text" name="societyName" id="societyName"
+						class="form-control" data-ng-model="signup.society.societyName"
+						typeahead="signup.society.societyName  as signup for signup in socityWithAddress()"
+						typeahead-template-url="societyTemplate.html"
+						placeholder="Name of Society" tabindex="1"
+						data-ng-disabled="isSocietyCityStateSelected()"
+						required="required" autocomplete="off"/>
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-6">
+						<div class="form-group">
+							<input type="text" name="wing" id="wing" class="form-control"
+								placeholder="Wing/Block" tabindex="1" required="required"
+								data-ng-model="signup.society.wingBlock" />
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-6">
+						<div class="form-group">
+							<input type="text" name="apartment" id="apartment"
+								class="form-control " placeholder="Apartment/Flat No."
+								tabindex="2" required="required"
+								data-ng-model="signup.society.apartmentNumber" />
+						</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<input type="email" name="email" data-ng-model="signup.user.userName"
+						id="email" class="form-control " placeholder="Email Address"
+						tabindex="2" required="required">
+				</div>
+
+				<hr class="colorgraph">
+				<div class="row">
+					<div class="col-xs-12 col-md-4">
+						<a href="#" class="btn btn-primary btn-block  "
+							ui-sref='login'>Cancel</a>
+					</div>
+					<div class="col-xs-12 col-md-4">
+						<a href="#" class="btn btn-primary btn-block  "
+							ui-sref='registerSociety'>Register Society</a>
+					</div>
+					<div class="col-xs-12 col-md-4">
+						<input type="submit" value=" Confirm Address"
+							class="btn btn-success btn-block" tabindex="7">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<script type="text/ng-template" id="societyTemplate.html">
+<a><div style="width:100%">
+    <b><span style="display:block;" class="registration" bind-html-unsafe="match.model.society.societyName"></span></b>
+    <span bind-html-unsafe="match.model.society.societyAddressLine1"></span>        
+</div></a>
+</script>

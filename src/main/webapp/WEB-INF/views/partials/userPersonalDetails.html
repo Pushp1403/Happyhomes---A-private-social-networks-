@@ -1,0 +1,102 @@
+<div class="container paddingbox">
+	<div class="row">
+		<div
+			class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
+			<form role="form" data-ng-submit="registerUser()">
+				<h2>
+					{{ tellUsAboutYou }} <small>{{ little }}</small>
+				</h2>
+				<hr class="colorgraph">
+				<div class="alert alert-danger"
+					data-ng-show="signup.user.invalidUsernamePassword" role="alert">{{
+					signup.user.errorMessage }}</div>
+				</span>
+
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-6">
+						<div class="form-group">
+							<input type="text" name="first_name" id="first_name"
+								class="form-control" placeholder="First Name" tabindex="1"
+								required="required" data-ng-model="signup.user.firstName"/>
+							<input type="hidden" data-ng-model="signup.society.societyId"/>
+							<input type="hidden" data-ng-model="signup.society.apartmentNumber"/>
+							<input type="hidden" data-ng-model="signup.society.wingBlock"/>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-6">
+						<div class="form-group">
+							<input type="text" name="last_name" id="last_name"
+								class="form-control " placeholder="Last Name" tabindex="2"
+								required="required" data-ng-model="signup.user.lastName">
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-6">
+						<div class="form-group">
+							<input type="password" name="password" id="password"
+								class="form-control " placeholder="Password" tabindex="5"
+								required="required" data-ng-model="signup.user.password" maxlength="20">
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-6">
+						<div class="form-group">
+							<input type="password" name="password_confirmation"
+								id="password_confirmation" class="form-control "
+								placeholder="Confirm Password" tabindex="6" required="required"
+								data-ng-model="signup.user.confirmPassword" maxlength="20">
+						</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<p class="input-group">
+						<input type="text" name="birthDate" id="birthDate"
+							class="form-control " placeholder="Date Of Birth"
+							datepicker-popup='dd-MMMM-yyyy' is-open="status"
+							data-ng-model="signup.user.dateOfBirth" format
+							required="required" /> <span class="input-group-btn">
+							<button type="button" class="btn btn-default"
+								ng-click="openCalender($event)">
+								<i class="glyphicon glyphicon-calendar"></i>
+							</button>
+						</span>
+					</p>
+				</div>
+				<div class="form-group">
+					<select class="form-control" id="sex"
+						data-ng-model="signup.user.gender" required="required">
+						<option value="M" selected="selected">Male</option>
+						<option value="F">Female</option>
+					</select>
+				</div>
+				<div class="row">
+					<div class="col-xs-4 col-sm-3 col-md-3">
+						<span class="button-checkbox">
+							<button type="button" class="btn " data-color="info" tabindex="7">I
+								{{ agree }}</button> <input type="checkbox" name="t_and_c" id="t_and_c"
+							class="hidden" value="1"
+							data-ng-model="signup.user.termsAccepted">
+						</span>
+					</div>
+					<div class="col-xs-8 col-sm-9 col-md-9">
+						{{ byClicking }} <strong class="label label-primary">{{
+							register }}</strong>, {{ youAgree }} <a href="#" data-toggle="modal">
+							{{terms }}</a> {{ terms2 }}
+					</div>
+				</div>
+
+				<hr class="colorgraph">
+				<div class="row">
+					<div class="col-xs-12 col-md-6">
+						<a href="#" class="btn btn-primary btn-block "
+							ui-sref='login'>Cancel</a>
+					</div>
+					<div class="col-xs-12 col-md-6" style="float: right;">
+						<input type="submit" value="Register"
+							class="btn btn-success btn-block">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>

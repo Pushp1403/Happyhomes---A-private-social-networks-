@@ -1,0 +1,82 @@
+<div class="newsfeedBox">
+	<div class="newsfeed-dialog">
+		<div class="newsfeed-content">
+			<form data-ng-submit="updateStatus()" role="form">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<input type="text" class="form-control"
+							placeholder="What are you up to..."
+							data-ng-model="societyPost.post.postData">
+					</div>
+					<div class="panel-footer">
+						<div class="btn-group">
+							<button type="button" class="btn btn-link btn-icon">
+								<i class="fa fa-map-marker"></i>
+							</button>
+							<button type="button" class="btn btn-link btn-icon">
+								<i class="fa fa-users"></i>
+							</button>
+							<button type="button" class="btn btn-link btn-icon">
+								<i class="fa fa-camera"></i>
+							</button>
+							<button type="button" class="btn btn-link btn-icon">
+								<i class="fa fa-video-camera"></i>
+							</button>
+						</div>
+						<div class="pull-right">
+							<button type="submit" class="btn btn-success">Post</button>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<div class="newsfeedBox" data-ng-repeat="societyPost in societyPostList">
+	<div class="newsfeed-dialog">
+		<div class="newsfeed-content">
+			<div class="media modal-header">
+				<div class="media-left">
+					<a href="#"> <img class="media-object"
+						data-src="holder.js/64x64" class="timeline-img media-object"
+						data-ng-src="{{ societyPost.post.userProfilePic }}"
+						alt="" style="height: 40px; width: 40px">
+					</a>
+				</div>
+				<div class="media-body">
+					<h5 class="media-heading">{{ societyPost.post.userFirstName }} {{ societyPost.post.userLastName }}</h5>
+					<p style="color: grey;">{{ societyPost.post.duration }}</p>
+				</div>
+			</div>
+			<div class="newsfeed-body">
+				<div class="media-body">{{ societyPost.post.postData }}</div>
+			</div>
+			<div class="newsfeed-footer">
+				<div class="media" data-ng-repeat="comments in SocietyPost.commentList">
+					<div class="media-left">
+						<a href="#"> <img class="media-object"
+							data-ng-src="{{ comments.userProfilePic }}"
+							alt="Generic placeholder image" style="height: 32px; width: 32px">
+						</a>
+					</div>
+					<div class="media-body">
+						<h5 class="media-heading">{{ comments.userFirstName }} {{ comments.userLastName }}</h5>
+						<p>{{ comments.commentData }}</p>
+					</div>
+				</div>
+				<div class="media">
+					<div class="media-left media-middle">
+						<a href="#"> <img class="media-object"
+							data-ng-src="{{ societyPost.post.userProfilePic }}"
+							alt="" style="height: 32px; width: 32px">
+						</a>
+					</div>
+					<div class="media-body">
+						<input type="text" class="form-control" data-ng-model="comments.newComment" add-comment="addPostComment(societyPost,comments)"
+						placeholder="Enter your comment..."></input>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
