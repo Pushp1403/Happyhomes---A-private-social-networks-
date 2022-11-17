@@ -261,7 +261,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-cas</artifactId>
-			<version>4.0.2.RELEASE</version>
+			<version>4.2.13.RELEASE</version>
 			<!--$NO-MVN-MAN-VER$ -->
 		</dependency>
 		<dependency>
